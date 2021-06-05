@@ -12,14 +12,14 @@
     <a href="https://sass-lang.com/documentation"><img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/></a>
     <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
   </span>
-  <h3> Contact Me</h3>
-  <ul>
-    <li><a href="mailto:malconaugusto@outlook.com"> :e-mail:malconaugusto@outlook.com</a></li>
-  </ul>
-  <span>
-    <a href="https://www.linkedin.com/in/malcon-augusto-0772161b1/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href="https://www.instagram.com/malcon.dev/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
-    <a href="tel:11998396724"><img src="https://img.icons8.com/fluent/48/000000/phone.png"/></a>
-  </span>
+
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=malconn alt=malconn /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=malconn&show_icons=true&include_all_commits=true)](https://github.com/malconn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malconn&layout=compact)](https://github.com/malconn/github-readme-stats)
+
+  <h2> Contact Me</h2>
   
-  
+[![Gmail Badge](https://img.shields.io/badge/-malconaugusto@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:malconaugusto@outlook.com)](mailto:malconaugusto@outlook.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-malconaugusto-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malconaugusto/)](https://www.linkedin.com/in/malconaugusto/) [![Github Badge](https://img.shields.io/badge/-malconn-grey?style=flat&logo=github&logoColor=white&link=https://github.com/malconn/)](https://www.github.com/malconn/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://linktr.ee/malconn/)](https://linktr.ee/malconn/) <p align='left'></p><p align='left'> </p>
