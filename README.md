@@ -5,12 +5,24 @@
   
   <h2> Skills</h2>
   <span>
-   <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/50/000000/bootstrap.png"/></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-    <a href="https://sass-lang.com/documentation"><img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/></a>
-    <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+   <a target='_blank' href="https://getbootstrap.com/">
+     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> 
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    </a>
+    <a href="https://sass-lang.com/documentation">
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+    </a>
+    <a href="https://git-scm.com/">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    </a>
   </span>
 
 ## Some of my Github Stats
@@ -21,5 +33,17 @@
 
   <h2> Contact Me</h2>
   
-[![Gmail Badge](https://img.shields.io/badge/-malconaugusto@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:malconaugusto@outlook.com)](mailto:malconaugusto@outlook.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-malconaugusto-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malconaugusto/)](https://www.linkedin.com/in/malconaugusto/) [![Github Badge](https://img.shields.io/badge/-malconn-grey?style=flat&logo=github&logoColor=white&link=https://github.com/malconn/)](https://www.github.com/malconn/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://linktr.ee/malconn/)](https://linktr.ee/malconn/) <p align='left'></p><p align='left'> </p>
+<div>
+    <a target='_blank' href="https://www.twitch.tv/maicaosgz">
+        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+    </a>
+    <a target='_blank' href="https://www.instagram.com/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target='_blank' href="https://www.linkedin.com/in/malcon-augusto-0772161b1/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a target='_blank' href="mailto:malconaugusto@outlook.com">
+      <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+    </a>
+</div>
