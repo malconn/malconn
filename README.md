@@ -20,7 +20,7 @@
   ## 🔥 Skills 🔥
   
   <span>
-   <a target='_blank' href="https://getbootstrap.com/">
+    <a target='_blank' href="https://getbootstrap.com/">
      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
@@ -48,6 +48,9 @@
   
 ## 🔥 Contact 🔥 
 <div>
+    <a target='_blank' href="https://linktr.ee/malconn">
+        <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
+    </a>
     <a target='_blank' href="https://www.instagram.com/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
