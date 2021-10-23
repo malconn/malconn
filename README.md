@@ -40,7 +40,6 @@
     </a>
   </span>
   
-  -------
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malconn&layout=compact)](https://github.com/malconn/github-readme-stats)
   
