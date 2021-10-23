@@ -35,7 +35,7 @@
     </a>
   </span>
 
-## Some of my Github Stats
+## Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=malconn alt=malconn /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=malconn&show_icons=true&include_all_commits=true)](https://github.com/malconn/github-readme-stats)
