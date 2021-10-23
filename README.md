@@ -5,13 +5,14 @@
   <p>19 years, <strong>Frontend developer</strong> with experiences on area and a lot of motivation to help people and learn more.
   </p>
   
-  ### Objective
+  ### + Objective
   <p>
     Dedicated to produce in favor
     to be better on it and my solutions make
     world better too.
   </p>
   
+  ### + Stats
   
   [![Github stats](https://github-readme-stats.vercel.app/api?username=malconn&show_icons=true&include_all_commits=true)](https://github.com/malconn/github-readme-stats)
  
