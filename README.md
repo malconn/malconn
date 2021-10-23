@@ -1,19 +1,24 @@
 ### Hi! i'm <a href="https://linktr.ee/malconn">Malcon.<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;"></a>
   
-  <h1>:cloud: About me :cloud:</h1> 
+  # :cloud: About me :cloud:
   
-  <p>19 years, <strong>Frontend developer</strong>with experiences on area and a lot of motivation to help people and learn more.
+  <p>19 years, <strong>Frontend developer</strong> with experiences on area and a lot of motivation to help people and learn more.
   </p>
   
-  <h2>Objectives:</h2>
-  
+  ### Objective
   <p>
     Dedicated to produce, learn more in favor
     to be better on it and my solutions make
     world better too.
   </p>
+  
+  
+  [![Github stats](https://github-readme-stats.vercel.app/api?username=malconn&show_icons=true&include_all_commits=true)](https://github.com/malconn/github-readme-stats)
+ 
+  
 
-  <h2> Skills</h2>
+  ## 🔥 Skills 🔥
+  
   <span>
    <a target='_blank' href="https://getbootstrap.com/">
      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -34,15 +39,15 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     </a>
   </span>
-
-## Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=malconn alt=malconn /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=malconn&show_icons=true&include_all_commits=true)](https://github.com/malconn/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malconn&layout=compact)](https://github.com/malconn/github-readme-stats)
-
-  <h2> Contact Me</h2>
   
+  -------
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malconn&layout=compact)](https://github.com/malconn/github-readme-stats)
+  
+
+  ------  
+  
+## 🔥 Contact 🔥 
 <div>
     <a target='_blank' href="https://www.instagram.com/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
