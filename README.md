@@ -35,9 +35,6 @@
     <a href="https://sass-lang.com/documentation">
       <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
     </a>
-    <a href="https://git-scm.com/">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    </a>
     <a href="https://www.php.net/">
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     </a>
@@ -46,8 +43,20 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malconn&layout=compact)](https://github.com/malconn/github-readme-stats)
   
-
-  ------  
+## 🔥 Tools 🔥
+  <span>
+    <a href="https://git-scm.com/">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    </a>
+    <a href="https://www.npmjs.com/">
+      <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+    </a>
+    <a href="https://classic.yarnpkg.com/en/">
+      <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
+    </a>
+  </span>
+  
+------  
   
 ## 🔥 Contact 🔥 
 <div>
