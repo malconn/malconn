@@ -7,7 +7,7 @@
   
   ### Objective
   <p>
-    Dedicated to produce, learn more in favor
+    Dedicated to produce in favor
     to be better on it and my solutions make
     world better too.
   </p>
