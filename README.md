@@ -44,9 +44,6 @@
   <h2> Contact Me</h2>
   
 <div>
-    <a target='_blank' href="https://www.twitch.tv/maicaosgz">
-        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-    </a>
     <a target='_blank' href="https://www.instagram.com/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
