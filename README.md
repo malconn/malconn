@@ -51,19 +51,4 @@
     <a target='_blank' href="https://linktr.ee/malconn">
         <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
     </a>
-    <a target='_blank' href="https://www.instagram.com/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a target='_blank' href="https://www.linkedin.com/in/malconn/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a target='_blank' href="mailto:malconaugusto@outlook.com">
-      <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-    </a>
-    <a target='_blank' href='mailto:thek2635@gmail.com'>
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a target='_blank' href='https://discord.gg/nDtvea2qkt'>
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-     </a>
 </div>
