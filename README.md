@@ -2,15 +2,13 @@
   
   # :cloud: About me :cloud:
   
-  <p>19 years, <strong>Frontend developer</strong> with experiences on area and a lot of motivation to help people and learn more.
-  </p>
+  19 years, <strong>Frontend developer</strong> with experiences on area and a lot of motivation to help people and learn more.
+  
   
   ### + Objective
-  <p>
-    Dedicated to produce in favor
-    to be better on it and my solutions make
-    world better too.
-  </p>
+  
+  Dedicated to produce in favor to be better on it and my solutions make world better too.
+  
   
   ### + Stats
   
