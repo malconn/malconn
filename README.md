@@ -52,9 +52,7 @@
       <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
     </a>
   </span>
-  
-------  
-  
+    
 ## 🔥 Contact 🔥 
   <span>
     <a target='_blank' href="https://linktr.ee/malconn">
