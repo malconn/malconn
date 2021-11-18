@@ -8,12 +8,8 @@
   
   ### + Objective
   
-  Dedicated to produce in favor to be better on it <br> and my solutions make world better too.
-  
-  
-  ### + Stats
-  
-  [![Github stats](https://github-readme-stats.vercel.app/api?username=malconn&show_icons=true&include_all_commits=true)](https://github.com/malconn/github-readme-stats)
+  Dedicated to produce in favor to be better on it and my solutions make world better too.
+ 
  
   
 
