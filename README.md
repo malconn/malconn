@@ -52,6 +52,9 @@
     <a href="https://classic.yarnpkg.com/en/">
       <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
     </a>
+    <a href="https://webpack.js.org/">
+      <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/>
+    </a>
   </p>
     
 <h2>🔥 Contact 🔥 </h2>
