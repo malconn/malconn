@@ -16,47 +16,7 @@
     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malconn&layout=compact&langs_count=16&theme=radical"/>
   </p>
 
-  <h2> 🔥 Skills 🔥</h2>
-  
-  <span aling="center">
-    <a target='_blank' href="https://getbootstrap.com/">
-     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> 
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    </a>
-    <a href="https://sass-lang.com/documentation">
-      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-    </a>
-    <a href="https://www.php.net/">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    </a>
-  </span>
-  
-  
-  
-<h2> 🔥 Tools 🔥 </h2>
-  <p>
-    <a href="https://git-scm.com/">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    </a>
-    <a href="https://www.npmjs.com/">
-      <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-    </a>
-    <a href="https://classic.yarnpkg.com/en/">
-      <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
-    </a>
-    <a href="https://webpack.js.org/">
-      <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/>
-    </a>
-  </p>
-    
+ 
 <h2>🔥 Contact 🔥 </h2>
   <p>
     <a target='_blank' href="https://linktr.ee/malconn">
