@@ -5,9 +5,7 @@
     <strong>+ Objective: </strong><br><br>
     Dedicated to produce in favor to be better on it <br> and my solutions make world better too.
   </p>
-  
-  <img src="https://radio.x-team.com/_next/static/media/matrix.e752cfaf.gif" />
-  
+   
   
   
   <h2 align="center"> 🔥 Status 🔥 </h2>
