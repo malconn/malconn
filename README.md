@@ -15,7 +15,7 @@
 
  
 <h2 align="center">🔥 Contact 🔥 </h2>
-  <p>
+  <p align="center">
     <a target='_blank' href="https://linktr.ee/malconn">
         <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
     </a>
