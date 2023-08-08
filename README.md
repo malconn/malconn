@@ -4,16 +4,6 @@
     20 years, <strong>Fullstack developer</strong> with experiences on area and <br> motivation to help people.<br>
     Dedicated to produce in favor to be better on it <br> and my solutions make world better too.
   </p>
-   
-  
-  
-  <h2 align="center"> 🔥 Status 🔥 </h2>
-  <p align="center">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=malconn&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malconn&layout=compact&langs_count=16&theme=radical"/>
-  </p>
-
- 
 <h2 align="center">🔥 Contact 🔥 </h2>
   <p align="center">
     <a target='_blank' href="https://linktr.ee/malconn">
