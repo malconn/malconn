@@ -9,9 +9,6 @@
     <a target='_blank' href="https://linktr.ee/malconn">
         <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
     </a>
-    <a target='_blank' href="mailto:malconaugusto@outlook.com">
-        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-    </a>
     <a target='_blank' href="mailto:malconn.augusto@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
